@@ -1,5 +1,1 @@
-# tanstack-learn
-
-# Update config
-
-# Test contributor
+# Tanstack TypeScript Shadcn-UI TailwindCSS
